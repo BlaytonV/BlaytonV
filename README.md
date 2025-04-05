@@ -1,9 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Blayton! <br/><a href="https://github.com/BlaytonV">Programmer</a>, <a href="https://www.linkedin.com/in/blayton-vidrine-392025240/">Software Engineer</a></h1>
+
+### 👨‍💻 Projects:
+
+- [APY Calculator Microservice](https://github.com/BlaytonV/APY-Calculator-Microservice)
+
+
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="BlaytonVidrine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/blayton-vidrine-392025240/ 
 
 <!--
-**BlaytonV/BlaytonV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
