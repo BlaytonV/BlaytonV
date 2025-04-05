@@ -1,16 +1,10 @@
-<h1>Hi, I'm Blayton! <br/><a href="https://github.com/BlaytonV">Programmer</a>, <a href="https://www.linkedin.com/in/blayton-vidrine-392025240/">Software Engineer</a></h1>
+<h1>Hi, I'm Blayton!
 
 ### 👨‍💻 Projects:
 
 - [APY Calculator Microservice](https://github.com/BlaytonV/APY-Calculator-Microservice)
 
-
-
-
-
-
 <h2> 🤳 Connect with me:</h2>
-
 
 [<img align="left" alt="BlaytonVidrine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
