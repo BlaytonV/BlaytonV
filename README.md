@@ -3,11 +3,11 @@
 I'm an aspiring **Software Engineer** with a strong interest in backend systems and microservices. I'm most comfortable coding in **Java** and **Python**, but I also have experience with **C++** and other foundational programming languages.
 
 I enjoy solving problems, learning new technologies, and building projects that have real-world impact. I'm currently expanding my skills in full-stack development and working on RESTful services.
-
+<!--
 ### 👨‍💻 Projects:
 
 - [APY Calculator Microservice](https://github.com/BlaytonV/APY-Calculator-Microservice)
-
+-->
 ### 🛠 Languages & Tools:
 - Java • Python • C++ • JavaScript • HTML/CSS
 - Git & GitHub • Flask • Visual Studio Code
